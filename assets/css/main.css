@@ -935,6 +935,10 @@ input, select, textarea {
 		#header h1 {
 			font-size: 2.25em;
 			font-weight: 700;
+			background: linear-gradient(to right, #f32170,
+                    #ff6b08, #cf23cf, #e0d12c);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
 		}
 
 /* Footer */
